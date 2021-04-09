@@ -1,4 +1,4 @@
-<a href="https://eager-ritchie-c574ba.netlify.app/">LIVE APP</a>
+<a href="https://eager-ritchie-c574ba.netlify.app/" target="_blank">LIVE APP</a>
 
 
 # Getting Started with Create React App
